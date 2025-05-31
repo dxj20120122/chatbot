@@ -1,0 +1,559 @@
+[
+    {
+        "questions": [
+            "你好",
+            "嗨",
+            "你好啊",
+            "hello",
+            "hi",
+            "您好",
+            "在吗",
+            "Simple-某杰AI助手",
+            "AI助手",
+            "某杰AI助手"
+        ],
+        "answers": [
+            "你好！我是AI助手，很高兴为你服务。有什么我可以帮你的吗？",
+            "嗨！很高兴见到你，今天有什么我可以帮忙的吗？",
+            "你好啊！我是你的AI助手，随时准备为你提供帮助。"
+        ]
+    },
+    {
+        "questions": [
+            "你叫什么名字",
+            "你是谁",
+            "你的名字是什么",
+            "怎么称呼你",
+            "你是哪位"
+        ],
+        "answers": [
+            "我是一个AI聊天助手，你可以叫我Simple-某杰AI助手。",
+            "我是你的智能助手，名字叫Simple-某杰AI助手，很高兴认识你！",
+            "你可以叫我Simple-某杰AI助手，我是专门为你提供帮助的AI助手。"
+        ]
+    },
+    {
+        "questions": [
+            "你会做什么",
+            "你能帮我什么",
+            "你有什么功能",
+            "你能做什么",
+            "你有什么用"
+        ],
+        "answers": [
+            "我可以回答你的问题、提供信息、陪你聊天、解答常见问题，或者帮你解决一些简单的问题。",
+            "我的功能包括：回答问题、提供建议、聊天解闷、知识查询等，有什么具体需要都可以问我哦！",
+            "我能做的事情可多了，比如回答问题、提供各种信息、陪你聊天，或者帮你解决一些日常问题。"
+        ]
+    },
+    {
+        "questions": [
+            "今天的天气怎么样",
+            "天气如何",
+            "今天会下雨吗",
+            "明天天气怎样",
+            "气温多少度",
+            "湿度多少"
+        ],
+        "answers": [
+            "我无法获取实时天气数据，建议你查看天气预报应用或网站获取最新天气信息。",
+            "关于天气问题，建议你查看当地气象服务，因为我没有实时天气数据访问权限。",
+            "很抱歉，我无法提供实时天气信息，你可以通过天气应用或网站查询最新预报。"
+        ]
+    },
+    {
+        "questions": [
+            "谢谢",
+            "非常感谢",
+            "多谢",
+            "谢谢你的帮助",
+            "太感谢了"
+        ],
+        "answers": [
+            "不客气，很高兴能帮到你！如果还有其他问题，随时告诉我。",
+            "这是我的荣幸！有任何需要都可以再来找我。",
+            "不用谢，能帮到你是我的快乐！"
+        ]
+    },
+    {
+        "questions": [
+            "讲个笑话",
+            "说个笑话",
+            "来个笑话",
+            "讲个有趣的事",
+            "逗我笑"
+        ],
+        "answers": [
+            "为什么程序员分不清万圣节和圣诞节？因为 Oct 31 == Dec 25！",
+            "电脑对主人说：你发现没，最近我的鼠标有点不灵活了。主人检查后说：啊，原来是滚轮生锈了！",
+            "有一天，0看到8说：胖就胖呗，系什么腰带啊！",
+            "程序员最讨厌的节日是什么？答案是：劳动节，因为要劳动！"
+        ]
+    },
+    {
+        "questions": [
+            "推荐一本书",
+            "有什么好书",
+            "推荐阅读",
+            "有什么值得读的书"
+        ],
+        "answers": [
+            "我推荐《人类简史》，它从全新角度讲述了人类发展史，非常有趣且富有启发性。",
+            "《思考，快与慢》是一本很棒的书，能帮助你理解人类思维是如何运作的。",
+            "如果你对科技感兴趣，《未来简史》探讨了人工智能和生物科技将如何改变人类的未来。"
+        ]
+    },
+    {
+        "questions": [
+            "如何学习编程",
+            "怎样开始编程",
+            "编程入门",
+            "想学写代码"
+        ],
+        "answers": [
+            "学习编程可以从Python语言开始，它语法简单适合新手。推荐先学习基础概念如变量、循环和函数，然后通过小项目实践。",
+            "建议从HTML/CSS和JavaScript开始学习网页开发，这是最直观的编程入门方式，能很快看到成果。",
+            "Codecademy和freeCodeCamp等平台提供互动式编程课程，是新手入门的好选择。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个HTML5代码"
+        ],
+        "answers": [
+            "以下是一个简单的HTMl5网页\n```<!DOCTYPE html>\n<html>\n<head>\n\t<title>我的第一个网页</title>\n</head>\n<body>\n\t<h1>你好，世界！</h1>\n\t<p>这是一个简单的HTML网页。</p>\n</body>\n</html>\n```\n"
+        ]
+    },
+    {
+        "questions": [
+            "什么是人工智能",
+            "AI是什么",
+            "人工智能定义",
+            "解释一下AI"
+        ],
+        "answers": [
+            "人工智能(AI)是计算机科学的一个分支，旨在创造能够执行通常需要人类智能的任务的系统。",
+            "AI是让机器模拟人类智能行为的技术，包括学习、推理、问题解决和语言理解等能力。",
+            "简单说，AI就是让计算机像人一样思考和行动的技术，现在已广泛应用于各个领域。"
+        ]
+    },
+    {
+        "questions": [
+            "如何评价你的服务",
+            "你的服务如何",
+            "你的服务如何评价",
+            "你的服务如何满意",
+            "你的服务如何好"
+        ],
+        "answers": [
+            "谢谢你的评价！你的反馈对我们来说很重要，我们会Based你的建议来改进我们的服务。",
+            "你的评价很满意！我们非常欢迎你的反馈，谢谢！",
+            "你的评价很满意！我们会Based你的建议来改进我们的服务。"
+        ]
+    },
+    {
+        "questions": [
+            "关于Simple平台",
+            "Simple是什么",
+            "介绍Simple平台",
+            "Simple平台是什么",
+            "Simple是干什么的"
+        ],
+        "answers": [
+            "Simple平台（全称Simple全系列梦想平台）是一个**综合性免费服务平台**，致力于通过科技改善生活体验，让优质服务和实用工具变得触手可及。其核心特点如下：\n\n### 平台定位\n- **免费开放**：所有服务均可免费使用  \n- **多元集成**：聚合多领域实用工具与资源  \n- **开发者友好**：为开发者提供展示和共享服务的平台  \n\n### 核心服务\n1. **主门户**  \n   [首页入口](https://moujie.dpdns.org)  \n   - 平台服务总枢纽，集成所有资源入口  \n\n2. **音乐服务**  \n   [免费音乐站](https://music.moujie.dpdns.org)  \n   - 提供海量正版音乐资源在线播放与下载  \n\n3. **影视服务**  \n   [免费影视站](https://tv.moujie.dpdns.org)  \n   - 支持各类影视作品在线观看  \n\n### 生态支持\n🔧 **开发者捐助通道**  \n[捐助页面](https://donation.moujie.dpdns.org)  \n- 支持平台持续发展和技术创新  \n\n### 平台愿景\n> \"让科技服务于生活，让梦想触手可及\"  \n通过降低优质服务获取门槛，赋能开发者和普通用户共同构建开放、便捷的数字化生态。"
+        ]
+    },
+    {
+        "questions": [
+            "端午安康"
+        ],
+        "answers": [
+            "端午安康！🌾🐉\n端午节是一个充满传统文化和美食的节日，吃粽子、赛龙舟、挂艾草等习俗都承载着丰富的历史和文化内涵。\n希望你和家人朋友在这个特别的日子里能够享受美好时光，感受浓厚的节日氛围。"
+        ]
+    },
+    {
+        "questions": [
+            "中秋快乐",
+            "中秋节快乐",
+            "中秋节安康"
+        ],
+        "answers": [
+            "中秋快乐！🌕🥮\n中秋节是团圆的日子，希望你和家人朋友能够一起赏月、吃月饼，享受这个美好的节日。",
+            "祝你中秋节快乐！愿明月带给你和家人团圆的幸福和美好的祝福。",
+            "中秋节是一个充满温馨和团圆的节日，祝你和家人朋友度过一个愉快的中秋佳节！"
+        ]
+    },
+    {
+        "questions": [
+            "圣诞快乐",
+            "圣诞节快乐",
+            "圣诞节安康"
+        ],
+        "answers": [
+            "圣诞快乐！🎄🎅\n愿这个节日带给你温暖和欢乐，和家人朋友一起享受美好的时光。",
+            "祝你圣诞节快乐！希望你能在这个特别的日子里感受到爱与和平。",
+            "圣诞节是一个充满喜悦和祝福的节日，愿你和家人朋友度过一个愉快的圣诞佳节！"
+        ]
+    },
+    {
+        "questions": [
+            "新年快乐",
+            "新年好",
+            "春节快乐",
+            "春节安康"
+        ],
+        "answers": [
+            "新年快乐！🎉🥳\n愿新的一年带给你健康、幸福和成功，和家人朋友一起迎接美好的未来。",
+            "祝你新年快乐！希望在新的一年里，你能实现所有的梦想和目标。",
+            "春节是团圆的时刻，愿你和家人朋友度过一个温馨愉快的新年佳节！"
+        ]
+    },
+    {
+        "questions": [
+            "使用H5写登录注册",
+            "html写登录注册页面",
+            "H5写登录注册"
+        ],
+        "answers": [
+            "\n好的，马上为您生成一个HTML5登录注册页面\n\n代码:\n```<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Apple Style Auth</title>\n    <style>\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n        }\n        body {\n            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%);\n            height: 100vh;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            overflow: hidden;\n        }\n        .container {\n            width: 380px;\n            background: rgba(255, 255, 255, 0.9);\n            border-radius: 18px;\n            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);\n            overflow: hidden;\n            backdrop-filter: blur(10px);\n            border: 1px solid rgba(255, 255, 255, 0.2);\n            transform: scale(0.95);\n            opacity: 0;\n            animation: fadeIn 0.5s ease-out forwards;\n        }\n        @keyframes fadeIn {\n            to {\n                transform: scale(1);\n                opacity: 1;\n            }\n        }\n        .tabs {\n            display: flex;\n            border-bottom: 1px solid rgba(0, 0, 0, 0.1);\n        }\n        .tab {\n            flex: 1;\n            text-align: center;\n            padding: 18px 0;\n            font-size: 16px;\n            font-weight: 500;\n            color: #888;\n            cursor: pointer;\n            transition: all 0.3s ease;\n            position: relative;\n        }\n        .tab.active {\n            color: #0071e3;\n        }\n        .tab.active::after {\n            content: \"\";\n            position: absolute;\n            bottom: -1px;\n            left: 50%;\n            transform: translateX(-50%);\n            width: 30%;\n            height: 3px;\n            background: #0071e3;\n            border-radius: 3px 3px 0 0;\n            animation: underline 0.3s ease-out;\n        }\n        @keyframes underline {\n            from { width: 0; }\n            to { width: 30%; }\n        }\n        .form-container {\n            padding: 30px;\n        }\n        .form {\n            display: none;\n        }\n        .form.active {\n            display: block;\n            animation: fadeInUp 0.4s ease-out;\n        }\n        @keyframes fadeInUp {\n            from {\n                opacity: 0;\n                transform: translateY(10px);\n            }\n            to {\n                opacity: 1;\n                transform: translateY(0);\n            }\n        }\n        .input-group {\n            margin-bottom: 20px;\n            position: relative;\n        }\n        .input-group label {\n            display: block;\n            margin-bottom: 8px;\n            font-size: 14px;\n            color: #555;\n            font-weight: 500;\n        }\n        .input-group input {\n            width: 100%;\n            padding: 14px 16px;\n            border: 1px solid #ddd;\n            border-radius: 10px;\n            font-size: 16px;\n            transition: all 0.3s ease;\n            background: rgba(255, 255, 255, 0.8);\n        }\n        .input-group input:focus {\n            border-color: #0071e3;\n            box-shadow: 0 0 0 4px rgba(0, 123, 255, 0.1);\n            outline: none;\n        }\n        .btn {\n            width: 100%;\n            padding: 14px;\n            background: #0071e3;\n            color: white;\n            border: none;\n            border-radius: 10px;\n            font-size: 16px;\n            font-weight: 500;\n            cursor: pointer;\n            transition: all 0.3s ease;\n            margin-top: 10px;\n        }\n        .btn:hover {\n            background: #0062c4;\n            transform: translateY(-1px);\n        }\n        .btn:active {\n            transform: translateY(0);\n        }\n        .forgot-password {\n            text-align: center;\n            margin-top: 20px;\n        }\n        .forgot-password a {\n            color: #0071e3;\n            text-decoration: none;\n            font-size: 14px;\n            transition: all 0.2s ease;\n        }\n        .forgot-password a:hover {\n            text-decoration: underline;\n        }\n        .divider {\n            display: flex;\n            align-items: center;\n            margin: 25px 0;\n            color: #999;\n            font-size: 14px;\n        }\n        .divider::before, .divider::after {\n            content: \"\";\n            flex: 1;\n            height: 1px;\n            background: #ddd;\n            margin: 0 10px;\n        }\n        .social-login {\n            display: flex;\n            justify-content: center;\n            gap: 15px;\n        }\n        .social-btn {\n            width: 50px;\n            height: 50px;\n            border-radius: 50%;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            background: white;\n            border: 1px solid #ddd;\n            cursor: pointer;\n            transition: all 0.3s ease;\n        }\n        .social-btn:hover {\n            transform: translateY(-3px);\n            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);\n        }\n        .social-btn i {\n            font-size: 20px;\n        }\n        .apple { color: #000; }\n        .google { color: #db4437; }\n        .facebook { color: #4267b2; }\n    </style>\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css\">\n</head>\n<body>\n    <div class=\"container\">\n        <div class=\"tabs\">\n            <div class=\"tab active\" onclick=\"switchTab('login')\">Login</div>\n            <div class=\"tab\" onclick=\"switchTab('register')\">Register</div>\n        </div>\n        <div class=\"form-container\">\n            <div id=\"login-form\" class=\"form active\">\n                <div class=\"input-group\">\n                    <label for=\"login-email\">Email</label>\n                    <input type=\"email\" id=\"login-email\" placeholder=\"Enter your email\">\n                </div>\n                <div class=\"input-group\">\n                    <label for=\"login-password\">Password</label>\n                    <input type=\"password\" id=\"login-password\" placeholder=\"Enter your password\">\n                </div>\n                <button class=\"btn\" onclick=\"login()\">Sign In</button>\n                <div class=\"forgot-password\">\n                    <a href=\"#\" onclick=\"showForgotPassword()\">Forgot password?</a>\n                </div>\n                <div class=\"divider\">OR</div>\n                <div class=\"social-login\">\n                    <div class=\"social-btn apple\"><i class=\"fab fa-apple\"></i></div>\n                    <div class=\"social-btn google\"><i class=\"fab fa-google\"></i></div>\n                    <div class=\"social-btn facebook\"><i class=\"fab fa-facebook-f\"></i></div>\n                </div>\n            </div>\n            <div id=\"register-form\" class=\"form\">\n                <div class=\"input-group\">\n                    <label for=\"register-name\">Full Name</label>\n                    <input type=\"text\" id=\"register-name\" placeholder=\"Enter your full name\">\n                </div>\n                <div class=\"input-group\">\n                    <label for=\"register-email\">Email</label>\n                    <input type=\"email\" id=\"register-email\" placeholder=\"Enter your email\">\n                </div>\n                <div class=\"input-group\">\n                    <label for=\"register-password\">Password</label>\n                    <input type=\"password\" id=\"register-password\" placeholder=\"Create a password\">\n                </div>\n                <div class=\"input-group\">\n                    <label for=\"register-confirm\">Confirm Password</label>\n                    <input type=\"password\" id=\"register-confirm\" placeholder=\"Confirm your password\">\n                </div>\n                <button class=\"btn\" onclick=\"register()\">Create Account</button>\n            </div>\n        </div>\n    </div>\n    <script>\n        function switchTab(tabName) {\n            document.querySelectorAll('.tab').forEach(tab => {\n                tab.classList.remove('active');\n            });\n            document.querySelectorAll('.form').forEach(form => {\n                form.classList.remove('active');\n            });\n            \n            if (tabName === 'login') {\n                document.querySelector('.tabs div:nth-child(1)').classList.add('active');\n                document.getElementById('login-form').classList.add('active');\n            } else {\n                document.querySelector('.tabs div:nth-child(2)').classList.add('active');\n                document.getElementById('register-form').classList.add('active');\n            }\n        }\n        \n        function login() {\n            const email = document.getElementById('login-email').value;\n            const password = document.getElementById('login-password').value;\n            \n            if (!email || !password) {\n                alert('Please fill in all fields');\n                return;\n            }\n            \n            // Simulate loading\n            const btn = document.querySelector('#login-form .btn');\n            btn.innerHTML = '<i class=\"fas fa-spinner fa-spin\"></i> Signing In';\n            btn.disabled = true;\n            \n            setTimeout(() => {\n                btn.innerHTML = 'Sign In';\n                btn.disabled = false;\n                alert('Login successful! (simulated)');\n            }, 1500);\n        }\n        \n        function register() {\n            const name = document.getElementById('register-name').value;\n            const email = document.getElementById('register-email').value;\n            const password = document.getElementById('register-password').value;\n            const confirm = document.getElementById('register-confirm').value;\n            \n            if (!name || !email || !password || !confirm) {\n                alert('Please fill in all fields');\n                return;\n            }\n            \n            if (password !== confirm) {\n                alert('Passwords do not match');\n                return;\n            }\n            \n            // Simulate loading\n            const btn = document.querySelector('#register-form .btn');\n            btn.innerHTML = '<i class=\"fas fa-spinner fa-spin\"></i> Creating Account';\n            btn.disabled = true;\n            \n            setTimeout(() => {\n                btn.innerHTML = 'Create Account';\n                btn.disabled = false;\n                alert('Registration successful! (simulated)');\n                switchTab('login');\n            }, 1500);\n        }\n        \n        function showForgotPassword() {\n            const email = prompt('Please enter your email to reset password:');\n            if (email) {\n                alert(`Password reset link sent to ${email} (simulated)`);\n            }\n        }\n    </script>\n</body>\n</html>```\n\n"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Vue3代码"
+        ],
+        "answers": [
+            "以下是一个简单的Vue3组件示例：\n```html\n<template>\n  <div class=\"app\">\n    <h1>{{ message }}</h1>\n    <input v-model=\"inputValue\" placeholder=\"输入一些内容\" />\n    <button @click=\"updateMessage\">更新消息</button>\n  </div>\n</template>\n\n<script setup>\nimport { ref } from 'vue';\n\nconst message = ref('Hello, Vue 3!');\nconst inputValue = ref('');\n\nfunction updateMessage() {\n  message.value = inputValue.value;\n}\n</script>\n\n<style scoped>\n.app {\n  text-align: center;\n  margin-top: 50px;\n}\ninput {\n  padding: 10px;\n  font-size: 16px;\n}\nbutton {\n  padding: 10px 20px;\n  font-size: 16px;\n}\n</style>\n```\n这个组件展示了一个输入框和一个按钮，用户可以输入内容并点击按钮来更新显示的消息。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个React代码"
+        ],
+        "answers": [
+            "以下是一个简单的React组件示例：\n```jsx\nimport React, { useState } from 'react';\n\nfunction App() {\n  const [message, setMessage] = useState('Hello, React!');\n  const [inputValue, setInputValue] = useState('');\n\n  const updateMessage = () => {\n    setMessage(inputValue);\n  };\n\n  return (\n    <div style={{ textAlign: 'center', marginTop: '50px' }}>\n      <h1>{message}</h1>\n      <input\n        type=\"text\"\n        value={inputValue}\n        onChange={(e) => setInputValue(e.target.value)}\n        placeholder=\"输入一些内容\"\n      />\n      <button onClick={updateMessage} style={{ padding: '10px 20px', fontSize: '16px' }}>\n        更新消息\n      </button>\n    </div>\n  );\n}\n\nexport default App;\n```\n这个组件展示了一个输入框和一个按钮，用户可以输入内容并点击按钮来更新显示的消息。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Python代码"
+        ],
+        "answers": [
+            "以下是一个简单的Python脚本示例：\n```python\n# 简单的Python脚本，打印Hello, World!\n\ndef main():\n    print(\"Hello, World!\")\n\nif __name__ == \"__main__\":\n    main()\n```\n这个脚本定义了一个`main`函数，并在运行时打印\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Java代码"
+        ],
+        "answers": [
+            "以下是一个简单的Java程序示例：\n```java\npublic class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}\n```\n这个程序定义了一个`HelloWorld`类，并在`main`方法中打印\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个C++代码"
+        ],
+        "answers": [
+            "以下是一个简单的C++程序示例：\n```cpp\n#include <iostream>\n\nint main() {\n    std::cout << \"Hello, World!\" << std::endl;\n    return 0;\n}\n```\n这个程序包含了`iostream`库，并在`main`函数中打印\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个JavaScript代码"
+        ],
+        "answers": [
+            "以下是一个简单的JavaScript代码示例：\n```javascript\n// 简单的JavaScript代码，打印Hello, World!\nconsole.log('Hello, World!');\n```\n这个代码使用`console.log`函数打印\"Hello, World!\"到控制台。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个C#代码"
+        ],
+        "answers": [
+            "以下是一个简单的C#程序示例：\n```csharp\nusing System;\n\nclass Program {\n    static void Main() {\n        Console.WriteLine(\"Hello, World!\");\n    }\n}\n```\n这个程序定义了一个`Program`类，并在`Main`方法中打印\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个PHP代码"
+        ],
+        "answers": [
+            "以下是一个简单的PHP脚本示例：\n```php\n<?php\n// 简单的PHP脚本，打印Hello, World!\necho 'Hello, World!';\n?>\n```\n这个脚本使用`echo`函数打印\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个SQL查询"
+        ],
+        "answers": [
+            "以下是一个简单的SQL查询示例：\n```sql\nSELECT * FROM users WHERE age > 18;\n```\n这个查询从`users`表中选择所有年龄大于18岁的用户。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Go代码"
+        ],
+        "answers": [
+            "以下是一个简单的Go程序示例：\n```go\npackage main\n\nimport \"fmt\"\n\nfunc main() {\n    fmt.Println(\"Hello, World!\")\n}\n```\n这个程序定义了一个`main`包，并在`main`函数中打印\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Ruby代码"
+        ],
+        "answers": [
+            "以下是一个简单的Ruby脚本示例：\n```ruby\n# 简单的Ruby脚本，打印Hello, World!\nputs 'Hello, World!'\n```\n这个脚本使用`puts`方法打印\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Swift代码"
+        ],
+        "answers": [
+            "以下是一个简单的Swift程序示例：\n```swift\nimport Foundation\n\nprint(\"Hello, World!\")\n```\n这个程序使用`print`函数打印\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Kotlin代码"
+        ],
+        "answers": [
+            "以下是一个简单的Kotlin程序示例：\n```kotlin\nfun main() {\n    println(\"Hello, World!\")\n}\n```\n这个程序定义了一个`main`函数，并在其中打印\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个TypeScript代码"
+        ],
+        "answers": [
+            "以下是一个简单的TypeScript代码示例：\n```typescript\n// 简单的TypeScript代码，打印Hello, World!\nconst message: string = 'Hello, World!';\nconsole.log(message);\n```\n这个代码定义了一个字符串变量`message`并使用`console.log`函数打印它。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Shell脚本"
+        ],
+        "answers": [
+            "以下是一个简单的Shell脚本示例：\n```bash\n#!/bin/bash\n# 简单的Shell脚本，打印Hello, World!\necho 'Hello, World!'\n```\n这个脚本使用`echo`命令打印\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个HTML5代码"
+        ],
+        "answers": [
+            "以下是一个简单的HTML5网页示例：\n```html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>My First HTML5 Page</title>\n</head>\n<body>\n    <h1>Hello, World!</h1>\n    <p>This is a simple HTML5 page.</p>\n</body>\n</html>\n```\n这个网页包含了基本的HTML结构，并在页面上显示了一个标题和一段文本。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个CSS代码"
+        ],
+        "answers": [
+            "以下是一个简单的CSS样式示例：\n```css\nbody {\n    background-color: #f0f0f0;\n    font-family: Arial, sans-serif;\n}\nh1 {\n    color: #333;\n    text-align: center;\n}\np {\n    font-size: 16px;\n    line-height: 1.5;\n}\n```\n这个CSS样式设置了页面的背景颜色、字体和标题样式。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个JSON数据"
+        ],
+        "answers": [
+            "以下是一个简单的JSON数据示例：\n```json\n{\n    \"name\": \"John Doe\",\n    \"age\": 30,\n    \"email\": \"<EMAIL>\",\n    \"phone\": \"123-456-7890\"\n}\n```\n这个JSON数据包含了一个对象，其中包含了一些属性，如姓名、年龄、电子邮件和电话号码。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个XML数据"
+        ],
+        "answers": [
+            "以下是一个简单的XML数据示例：\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<person>\n    <name>John Doe</name>\n    <age>30</age>\n    <email><EMAIL></email>\n    <phone>123-456-7890</phone>\n</person>\n```\n这个XML数据定义了一个`person`元素，其中包含了姓名、年龄、电子邮件和电话号码等子元素。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Markdown文本"
+        ],
+        "answers": [
+            "以下是一个简单的Markdown文本示例：\n```markdown\n# 我的标题\n\n这是一个段落，包含一些**加粗文本**和*斜体文本*。\n\n## 子标题\n\n- 列表项 1\n- 列表项 2\n- 列表项 3\n\n[链接到Google](https://www.google.com)\n```\n这个Markdown文本包含了标题、段落、列表和链接等基本元素。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个YAML数据"
+        ],
+        "answers": [
+            "以下是一个简单的YAML数据示例：\n```yaml\nname: John Doe\nage: 30\nemail: <EMAIL>\nphone: 123-456-7890\n```\n这个YAML数据定义了一个对象，其中包含了姓名、年龄、电子邮件和电话号码等属性。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个CSV数据"
+        ],
+        "answers": [
+            "以下是一个简单的CSV数据示例：\n```csv\nname,age,email,phone\nJohn Doe,30,<EMAIL>,123-456-7890\nJane Smith,25,<EMAIL>,234-567-8901\n```\n这个CSV数据包含了三行数据，每行包含了一个人的姓名、年龄、电子邮件和电话号码。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个正则表达式"
+        ],
+        "answers": [
+            "以下是一个简单的正则表达式示例，用于匹配电子邮件地址：\n```regex\n^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$\n```\n这个正则表达式可以匹配常见格式的电子邮件地址，如`<EMAIL>`。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Python Flask代码"
+        ],
+        "answers": [
+            "以下是一个简单的Python Flask应用示例：\n```python\nfrom flask import Flask, render_template\n\napp = Flask(__name__)\n\n@app.route('/')\ndef index():\n    return render_template('index.html')\n```\n这个应用使用Flask框架创建了一个简单的Web应用，其中包含了一个`index`视图函数，用于渲染`index.html`模板。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Node.js Express代码"
+        ],
+        "answers": [
+            "以下是一个简单的Node.js Express应用示例：\n```javascript\nconst express = require('express');\nconst app = express();\n\napp.get('/', (req, res) => {\n    res.send('Hello, World!');\n});\n\napp.listen(3000, () => {\n    console.log('Server is running on http://localhost:3000');\n});\n```\n这个应用使用Express框架创建了一个简单的Web服务器，当访问根路径时返回\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Ruby on Rails代码"
+        ],
+        "answers": [
+            "以下是一个简单的Ruby on Rails应用示例：\n```ruby\n# 在config/routes.rb中\nRails.application.routes.draw do\n  root 'welcome#index'\nend\n\n# 在app/controllers/welcome_controller.rb中\nclass WelcomeController < ApplicationController\n  def index\n    render plain: 'Hello, World!'\n  end\nend\n```\n这个应用定义了一个`WelcomeController`，并在根路径返回\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Django代码"
+        ],
+        "answers": [
+            "以下是一个简单的Django应用示例：\n```python\n# 在views.py中\nfrom django.http import HttpResponse\n\ndef index(request):\n    return HttpResponse('Hello, World!')\n\n# 在urls.py中\nfrom django.urls import path\nfrom .views import index\n\nurlpatterns = [\n    path('', index),\n]\n```\n这个应用定义了一个视图函数`index`，并在根路径返回\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Spring Boot代码"
+        ],
+        "answers": [
+            "以下是一个简单的Spring Boot应用示例：\n```java\nimport org.springframework.boot.SpringApplication;\nimport org.springframework.boot.autoconfigure.SpringBootApplication;\nimport org.springframework.web.bind.annotation.GetMapping;\nimport org.springframework.web.bind.annotation.RestController;\n\n@SpringBootApplication\n@RestController\npublic class HelloWorldApplication {\n    public static void main(String[] args) {\n        SpringApplication.run(HelloWorldApplication.class, args);\n    }\n\n    @GetMapping(\"/\")\n    public String index() {\n        return \"Hello, World!\";\n    }\n}\n```\n这个应用使用Spring Boot创建了一个简单的Web服务器，当访问根路径时返回\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个ASP.NET Core代码"
+        ],
+        "answers": [
+            "以下是一个简单的ASP.NET Core应用示例：\n```csharp\nusing Microsoft.AspNetCore.Builder;\nusing Microsoft.AspNetCore.Hosting;\nusing Microsoft.Extensions.DependencyInjection;\nusing Microsoft.Extensions.Hosting;\n\npublic class Startup {\n    public void ConfigureServices(IServiceCollection services) {}\n\n    public void Configure(IApplicationBuilder app, IWebHostEnvironment env) {\n        if (env.IsDevelopment()) {\n            app.UseDeveloperExceptionPage();\n        }\n\n        app.UseRouting();\n\n        app.UseEndpoints(endpoints => {\n            endpoints.MapGet(\"/\", async context => {\n                await context.Response.WriteAsync(\"Hello, World!\");\n            });\n        });\n    }\n}\n```\n这个应用使用ASP.NET Core创建了一个简单的Web服务器，当访问根路径时返回\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Flutter代码"
+        ],
+        "answers": [
+            "以下是一个简单的Flutter应用示例：\n```dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(MyApp());\n\nclass MyApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: Scaffold(\n        appBar: AppBar(title: Text('Hello, Flutter!')),\n        body: Center(child: Text('Hello, World!')),\n      ),\n    );\n  }\n}\n```\n这个应用创建了一个简单的Flutter界面，显示了\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Vue.js代码"
+        ],
+        "answers": [
+            "以下是一个简单的Vue.js应用示例：\n```html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Hello Vue</title>\n    <script src=\"https://cdn.jsdelivr.net/npm/vue@2\"></script>\n</head>\n<body>\n    <div id=\"app\">\n        <h1>{{ message }}</h1>\n    </div>\n    <script>\n        new Vue({\n            el: '#app',\n            data: {\n                message: 'Hello, World!'\n            }\n        });\n    </script>\n</body>\n</html>\n```\n这个应用使用Vue.js创建了一个简单的Web页面，显示了\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Angular代码"
+        ],
+        "answers": [
+            "以下是一个简单的Angular应用示例：\n```typescript\nimport { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-root',\n  template: `<h1>{{ message }}</h1>`,\n  styles: []\n})\nexport class AppComponent {\n  message = 'Hello, World!';\n}\n```\n这个应用使用Angular创建了一个简单的组件，显示了\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Svelte代码"
+        ],
+        "answers": [
+            "以下是一个简单的Svelte应用示例：\n```html\n<script>\n  let message = 'Hello, World!';\n</script>\n\n<h1>{message}</h1>\n```\n这个应用使用Svelte创建了一个简单的组件，显示了\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Next.js代码"
+        ],
+        "answers": [
+            "以下是一个简单的Next.js应用示例：\n```javascript\nimport React from 'react';\n\nconst Home = () => {\n  return <h1>Hello, World!</h1>;\n};\n\nexport default Home;\n```\n这个应用使用Next.js创建了一个简单的页面，显示了\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Nuxt.js代码"
+        ],
+        "answers": [
+            "以下是一个简单的Nuxt.js应用示例：\n```html\n<template>\n  <h1>Hello, World!</h1>\n</template>\n\n<script>\nexport default {\n  name: 'HomePage'\n};\n</script>\n```\n这个应用使用Nuxt.js创建了一个简单的页面，显示了\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个Laravel代码"
+        ],
+        "answers": [
+            "以下是一个简单的Laravel应用示例：\n```php\n// 在routes/web.php中\nRoute::get('/', function () {\n    return 'Hello, World!';\n});\n```\n这个应用使用Laravel创建了一个简单的路由，当访问根路径时返回\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个ASP.NET MVC代码"
+        ],
+        "answers": [
+            "以下是一个简单的ASP.NET MVC应用示例：\n```csharp\nusing System.Web.Mvc;\n\npublic class HomeController : Controller {\n    public ActionResult Index() {\n        return Content(\"Hello, World!\");\n    }\n}\n```\n这个应用定义了一个`HomeController`，并在`Index`方法中返回\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个ASP.NET Web API代码"
+        ],
+        "answers": [
+            "以下是一个简单的ASP.NET Web API应用示例：\n```csharp\nusing System.Web.Http;\n\npublic class HelloController : ApiController {\n    [HttpGet]\n    public string Get() {\n        return \"Hello, World!\";\n    }\n}\n```\n这个应用定义了一个`HelloController`，并在`Get`方法中返回\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "写一个ASP.NET Razor Pages代码"
+        ],
+        "answers": [
+            "以下是一个简单的ASP.NET Razor Pages应用示例：\n```csharp\n@page\n@model IndexModel\n\n<h1>Hello, World!</h1>\n```\n这个应用使用Razor Pages创建了一个简单的页面，显示了\"Hello, World!\"。"
+        ]
+    },
+    {
+        "questions": [
+            "腾讯官网",
+            "腾讯官网地址",
+            "腾讯官网链接",
+            "腾讯公司官网",
+            "腾讯官方网站"
+        ],
+        "answers": [
+            "腾讯官网是 [https://www.tencent.com](https://www.tencent.com)。在这里，你可以找到关于腾讯的最新新闻、产品信息和公司介绍等内容。",
+            "你好，很高兴为你解答这个问题，作为Simple平台的AI，腾讯这家公司是我们非常敬佩的，腾讯的官方网站我们熟练于心，你可以访问 [https://www.tencent.com](https://www.tencent.com) 进入 腾讯官网。"
+        ]
+    },
+    {
+        "questions": [
+            "百度官网",
+            "百度官网地址",
+            "百度官网链接",
+            "百度公司官网",
+            "百度官方网站"
+        ],
+        "answers": [
+            "# 百度官网\n 访问 ` [https://www.baidu.com](https://www.baidu.com) ` 进入百度官网。在这里，你可以找到关于百度的搜索服务、产品信息和公司介绍等内容。",
+            "你好，很高兴为你解答这个问题，作为Simple平台的AI，百度这家公司是中国国内三巨头(BAT)之一，百度的官方网站我们熟练于心，你可以访问 [https://www.baidu.com](https://www.baidu.com) 进入 百度官网。"
+        ]
+    }
+]
