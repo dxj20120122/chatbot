@@ -22,17 +22,15 @@
                     <span class="status-dot"></span>
                     <span>在线</span>
                 </div>
+                <div class="menu-btn" id="menu-btn">
+                    <i class="fas fa-bars"></i>
+                </div>
             </div>
         </div>
         <div class="chat-messages" id="chat-messages">
             <div class="welcome-message">
                 <h3>你好！我是SimpleAI智能助手</h3>
-                <p>我可以帮助你解答各种问题，提供建议和信息</p>
-                <div class="suggestions">
-                    <div class="suggestion" onclick="insertSuggestion('介绍Simple平台')">介绍Simple平台</div>
-                    <div class="suggestion" onclick="insertSuggestion('想学写代码')">想学写代码</div>
-                    <div class="suggestion" onclick="insertSuggestion('推荐一本书')">推荐一本书</div>
-                </div>
+                <p>我正在加载知识库，请稍候...</p>
             </div>
             <div class="typing-indicator" id="typing-indicator">
                 <span class="typing-dot"></span>
@@ -46,6 +44,24 @@
                 发送
                 <i class="fas fa-paper-plane"></i>
             </button>
+        </div>
+    </div>
+
+    <div class="menu-popup" id="menu-popup">
+        <div class="menu-header">
+            <h3>问题库</h3>
+            <span class="close-btn" id="close-btn">&times;</span>
+        </div>
+        <div class="questions-list" id="questions-list">
+            <div class="loading-questions">
+                <div class="loading-dot"></div>
+                <div class="loading-dot"></div>
+                <div class="loading-dot"></div>
+            </div>
+        </div>
+        <div class="knowledge-status">
+            <div class="status-title">已加载知识库:</div>
+            <div id="knowledge-status-list"></div>
         </div>
     </div>
 
